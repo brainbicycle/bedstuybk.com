@@ -255,6 +255,71 @@ open:
     notes: >-
       David’s Brisket House is delivering free of charge outside of online delivery services. Please call 718-789-1155. Thank you to all.
     last_updated: 3/29
+  - name: Brooklyn Kolache Co.
+    url: http://www.brooklynkolacheco.com
+    instagram: https://www.instagram.com/brooklynkolache/
+    hours: 8AM-2PM
+    phone: (718) 398-1111
+    delivery:
+      seamless: https://www.seamless.com/menu/brooklyn-kolache-co-520-dekalb-ave-brooklyn/323196
+    notes: >-
+      You can order on Grubhub/Postmates for delivery/pick up or call us with a credit card for contactless pick up ☕️
+    last_updated: 3/30
+  - name: Swell Dive
+    url: https://swelldive.nyc
+    instagram: https://www.instagram.com/swelldive/
+    hours: 12PM-6PM
+    phone: (917) 652-4779
+    links:
+      - title: Delivery + Pickup
+        url: https://app.upserve.com/s/swell-dive-brooklyn
+    last_updated: 3/30
+  - name: Ice Cream House
+    url: https://theicecreamhouse.com
+    instagram: https://www.instagram.com/icecreamhouse/
+    hours: 12PM-6PM
+    phone: (718) 972-0222
+    delivery:
+      seamless: https://www.seamless.com/menu/the-ice-cream-house-873-bedford-ave-brooklyn/1718453
+      uber_eats: https://www.ubereats.com/new-york/food-delivery/the-ice-cream-house-church-ave/dnSmDcJ4RB2Y4cF-lPHnuQ
+    notes: >-
+      All orders on ubereats get free delivery and a free pint of ice cream.
+    last_updated: 3/30
+  - name: Rustik Tavern
+    url: https://rustiktavern.com
+    instagram: https://www.instagram.com/rustik_tavern/
+    phone: (347) 406-9700
+    delivery:
+      doordash: https://www.doordash.com/store/rustik-tavern-brooklyn-28783/
+      postmates: https://postmates.com/merchant/rustik-tavern-brooklyn
+      seamless: https://www.seamless.com/menu/rustik-tavern-471-dekalb-ave-brooklyn/87188
+    notes: >-
+      Get a little taste of normalcy with Rustik Tavern brunch to-go. We're doing curbside pickups and delivery for brunch and dinner! Call our line or head to our website to place your order.
+    last_updated: 3/30
+  - name: Toad Style
+    url: http://www.toadstylebk.com
+    instagram: https://www.instagram.com/toadstylebk/
+    hours: 11AM - 11PM
+    phone: (347) 789-1589
+    delivery:
+      doordash: https://www.doordash.com/store/toad-style-brooklyn-32406
+      seamless: https://www.seamless.com/menu/toad-style-93-ralph-ave-brooklyn/332525
+      caviar: https://www.trycaviar.com/m/toad-style-15647
+    notes: >-
+      If you'd like to contribute a tip to staff in this crisis please feel free to paypal toadstylebk@gmail.com with a note of either 'tip for toad style' or 'tip for familiars'
+    last_updated: 3/30
+  - name: Turtles all the Way Down
+    instagram: https://www.instagram.com/turtlesallthewaydownbk/
+    hours: 1PM-8PM SAT SUN
+    phone: (917) 484-1108
+    links:
+      - title: Go Fund Me
+        url: https://www.gofundme.com/f/support-your-neighborhood-bar-staff
+      - title: To Go Menu
+        url: https://www.instagram.com/p/B-L30gqDIj-/
+    notes: >-
+      Txt 917-484-1108 or DM @turtlesallthewaydownbk or @doordivebedstuy your orders! $3 Jell-O shots on special all day Mmm Mmm!
+    last_updated: 3/30
 closed:
   - name: Bar Lunático
     url: http://www.barlunatico.com
@@ -301,3 +366,28 @@ closed:
       - title: Gift Certificates
         url: https://doris-bed-stuy.myshopify.com
     last_updated: 3/29
+  - name: Stonefruit Espresso + Kitchen
+    url: http://stonefruitespresso.com/gift-cards/
+    instagram: https://www.instagram.com/stonefruitespresso/
+    links:
+      - title: Go Fund Me
+        url: https://www.gofundme.com/f/stonefruit-staff-relief-fund
+      - title: Gift Certificates
+        url: http://stonefruitespresso.com/gift-cards/
+    notes: >-
+      Everyone who donates to the staff relief fund will be entered in a raffle to win prizes like: a cake, a cake decorating class and a box of assorted pastries!
+    last_updated: 3/30
+  - name: Lover's Rock
+    url: https://loversrocknyc.com
+    instagram: https://www.instagram.com/loversrocknyc/
+    links:
+      - title: Go Fund Me
+        url: https://www.gofundme.com/f/support-lovers-rock-staff-during-covid-shutdown
+    last_updated: 3/30
+  - name: Dynaco
+    url: https://www.instagram.com/jaredmsmith/
+    instagram: https://www.instagram.com/jaredmsmith/
+    links:
+      - title: Go Fund Me
+        url: https://www.gofundme.com/f/dynaco-barteners-relief
+    last_updated: 3/30

@@ -320,6 +320,41 @@ open:
     notes: >-
       Txt 917-484-1108 or DM @turtlesallthewaydownbk or @doordivebedstuy your orders! $3 Jell-O shots on special all day Mmm Mmm!
     last_updated: 3/30
+  - name: Oaxaca
+    url: https://www.oaxacatacos.com
+    instagram: https://www.instagram.com/oaxacatacos/
+    hours: SUN - THUR 11AM - 11PM FRI+SAT 11AM-12AM
+    phone: (718) 443-3301
+    delivery:
+      doordash: https://www.doordash.com/store/oaxaca-taqueria-brooklyn-213586
+      postmates: https://postmates.com/merchant/oaxaca-taqueria5-brooklyn
+      seamless: https://www.seamless.com/food/oaxaca_taqueria
+    links:
+      - title: Feed NYC Children Fundraiser
+        url: https://www.gofundme.com/f/oaxaca-taqueria-fundraiser-to-feed-nyc-children
+    notes: >-
+      We are donating lunches for NYC children in need grades K - 9 every Monday - Friday from 12 - 2 PM. They can be picked up at each of our 10 stores located in Manhattan and Brooklyn.
+    last_updated: 04/05
+  - name: Bravi Regazzi - Brooklyn
+    url: https://www.facebook.com/braviragazzibrooklyn/
+    instagram: https://www.instagram.com/braviragazzibrooklyn/
+    hours: 4PM - 11:45PM
+    phone: (347) 770-8048
+    delivery:
+      doordash: https://www.doordash.com/store/bravi-ragazzi-brooklyn-217044
+      postmates: https://postmates.com/merchant/bravi-ragazzi-brooklyn
+      caviar: https://www.trycaviar.com/m/bravi-ragazzi-8428
+      seamless: https://www.seamless.com/menu/bravi-ragazzi-570-putnam-ave-brooklyn/476803
+    last_updated: 04/05
+  - name: Baron's
+    url: http://barons-brooklyn.com
+    instagram: https://www.instagram.com/baronsbrooklyn/
+    hours: SUN - THURS 5PM-11PM  FRI - SAT 5PM-12AM
+    phone: (718) 230-7100
+    delivery:
+      uber_eats: https://www.ubereats.com/new-york/food-delivery/barons-restaurant-bedford-stuyvesant/NDsGTS5lRE20AnyMy1jkXw
+      caviar: https://www.trycaviar.com/m/barons-21070
+    last_updated: 04/05
 closed:
   - name: Bar Lunático
     url: http://www.barlunatico.com
@@ -391,3 +426,10 @@ closed:
       - title: Go Fund Me
         url: https://www.gofundme.com/f/dynaco-barteners-relief
     last_updated: 3/30
+  - name: Brooklyn Beso
+    url: https://brooklynbeso.com/#reservation
+    instagram: https://www.instagram.com/bkbeso/
+    links:
+      - title: Staff Relief Fund
+        url: https://www.gofundme.com/f/brooklyn-beso-staff-relief-fund
+    last_updated: 04/05

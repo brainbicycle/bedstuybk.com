@@ -11,7 +11,7 @@ open:
       caviar:
         https://www.trycaviar.com/m/trad-room-12608
     links:
-      - title: Go Fund Me
+      - title: Staff Relief Fund
         url: https://gf.me/y/fHHpSKT9u7PQBYaMW5cEkA
     notes: Can deliver within walking distance, updated menu items available for takeout!
      Coffee + Tea available, gift cards available via email - info@tradroombrooklyn.com.
@@ -46,7 +46,7 @@ open:
       doordash:
         https://www.doordash.com/store/chez-oskar-brooklyn-22054
     links:
-      - title: Go Fund Me
+      - title: Staff Relief Fund
         url: https://www.gofundme.com/f/help-support-the-staff-at-chez-oskar
     notes: >-
       Take out available 11am - 11pm, food, cocktails, beer and even your favorite cocktail.
@@ -88,7 +88,7 @@ open:
     phone: (718) 783-4744
     hours: 5PM-12PM
     links:
-      - title: Go Fund Me
+      - title: Staff Relief Fund
         url: https://www.gofundme.com/f/black-swan-staff-relief-fund
     delivery:
       doordash:
@@ -105,7 +105,7 @@ open:
     instagram: https://www.instagram.com/samurai_papa_bedstuy/
     phone: (718) 398-8181
     links:
-      - title: Go Fund Me
+      - title: Staff Relief Fund
         url: https://www.gofundme.com/f/relief-fund-for-employees-of-bbf-group
       - title: Gift Certificates
         url: https://docs.google.com/forms/d/e/1FAIpQLSfPzk0vDg3DmJm8urBE4fhrxQlmdYehdQnUat2aYifyoWz1xQ/viewform
@@ -215,7 +215,7 @@ open:
     phone: (347) 295-2218
     hours: FRI-SAT 1pm-6pm
     links:
-      - title: Go Fund Me
+      - title: Staff Relief Fund
         url: https://www.gofundme.com/manage/bedvyne-staff-covid19-relief-fund
       - title: Growlers to Go
         url: https://www.instagram.com/p/B-SU8fkgQHs/
@@ -237,7 +237,7 @@ open:
     hours: THURS 4-8PM F S SUN 1-8PM
     phone: (917) 484-1108
     links:
-      - title: Go Fund Me
+      - title: Staff Relief Fund
         url: https://www.gofundme.com/f/support-your-neighborhood-bar-staff
     notes: >-
       $20 bloody mix while supplies last $25 bottle of Rancho Tequila (100% agave) and of course THE CLAW! Delivery til 8pm DM or txt 917-484-1108.
@@ -313,7 +313,7 @@ open:
     hours: 1PM-8PM SAT SUN
     phone: (917) 484-1108
     links:
-      - title: Go Fund Me
+      - title: Staff Relief Fund
         url: https://www.gofundme.com/f/support-your-neighborhood-bar-staff
       - title: To Go Menu
         url: https://www.instagram.com/p/B-L30gqDIj-/
@@ -360,7 +360,7 @@ closed:
     url: http://www.barlunatico.com
     instagram: https://www.instagram.com/barlunatico/
     links:
-      - title: Go Fund Me
+      - title: Staff Relief Fund
         url: https://www.gofundme.com/f/bar-lunatico-staff-relief-fund
     last_updated: 3/28
   - name: Heritage Tonsorial
@@ -374,7 +374,7 @@ closed:
     url: https://www.mamafoxbk.com
     instagram: https://www.instagram.com/mamafoxbk/
     links:
-      - title: Go Fund Me
+      - title: Staff Relief Fund
         url: https://www.gofundme.com/f/team-mama-fox
     last_updated: 3/28
   - name: Trash Island
@@ -387,7 +387,7 @@ closed:
     url: https://diamondreefnyc.com
     instagram: https://www.instagram.com/diamondreef/
     links:
-      - title: Go Fund Me
+      - title: Staff Relief Fund
         url: https://www.gofundme.com/f/diamond-reef-staff-support-fund
       - title: Gift Certificates + Merch
         url: https://diamondreefnyc.com
@@ -396,7 +396,7 @@ closed:
     url: https://doris-bed-stuy.myshopify.com
     instagram: https://www.instagram.com/dorisbedstuy/
     links:
-      - title: Go Fund Me
+      - title: Staff Relief Fund
         url: https://www.gofundme.com/f/doris-staff-relief-fund
       - title: Gift Certificates
         url: https://doris-bed-stuy.myshopify.com
@@ -405,7 +405,7 @@ closed:
     url: http://stonefruitespresso.com/gift-cards/
     instagram: https://www.instagram.com/stonefruitespresso/
     links:
-      - title: Go Fund Me
+      - title: Staff Relief Fund
         url: https://www.gofundme.com/f/stonefruit-staff-relief-fund
       - title: Gift Certificates
         url: http://stonefruitespresso.com/gift-cards/
@@ -416,14 +416,14 @@ closed:
     url: https://loversrocknyc.com
     instagram: https://www.instagram.com/loversrocknyc/
     links:
-      - title: Go Fund Me
+      - title: Staff Relief Fund
         url: https://www.gofundme.com/f/support-lovers-rock-staff-during-covid-shutdown
     last_updated: 3/30
   - name: Dynaco
     url: https://www.instagram.com/jaredmsmith/
     instagram: https://www.instagram.com/jaredmsmith/
     links:
-      - title: Go Fund Me
+      - title: Staff Relief Fund
         url: https://www.gofundme.com/f/dynaco-barteners-relief
     last_updated: 3/30
   - name: Brooklyn Beso
